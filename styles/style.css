@@ -567,15 +567,13 @@ p {
   .header-container {
     flex-direction: column;
   }
-  .video{
+  .video {
     width: 600px;
-    
   }
   #solutions {
     padding: 4rem 1rem 10rem 1rem;
   }
-  .hero-right{
-    
+  .hero-right {
     width: 100%;
   }
   .nav-list {
@@ -589,7 +587,7 @@ p {
     justify-content: center;
     align-items: center;
   }
- 
+
   #plan {
     max-width: 100%;
   }
@@ -597,7 +595,7 @@ p {
     max-width: 100%;
     margin-bottom: -10em;
     position: relative;
-    
+
     box-shadow: none;
   }
   .testimonial-container {
@@ -610,21 +608,19 @@ p {
   }
 }
 @media (max-width: 75em) {
- 
-  .hero-right{
-    
+  .hero-right {
     width: 90%;
   }
-  .features{
+  .features {
     width: 800px;
   }
-  .features li{
+  .features li {
     width: 20%;
   }
-  .features li p{
+  .features li p {
     width: 90%;
   }
-  .btn-action{
+  .btn-action {
     flex-direction: column;
   }
   #solutions {
@@ -635,12 +631,8 @@ p {
     gap: 1rem;
   }
 
-
-
   .plan-list p {
     width: 80%;
-   ;
-    
   }
   .free-content {
     flex-direction: column-reverse;
@@ -667,39 +659,35 @@ p {
 /**************************/
 
 @media (max-width: 59em) {
- 
   #solutions {
     padding: 4rem 1rem 10rem 1rem;
   }
-  .features{
+  .features {
     flex-direction: column;
     width: 650px;
   }
 
-  .features li p{
+  .features li p {
     width: 100%;
   }
 
-  .features li{
+  .features li {
     width: 100%;
   }
 }
 
 @media (max-width: 44em) {
- 
   .hero {
     max-width: 100%;
   }
-  .video{
+  .video {
     width: 500px;
-   
   }
-  .hero-right{
-    
+  .hero-right {
     width: 100%;
   }
 
-  .features{
+  .features {
     flex-direction: column;
     width: 550px;
   }
@@ -725,31 +713,26 @@ p {
 /**************************/
 
 @media (max-width: 34em) {
- 
-  .hero-right{
-  
+
+  .hero-right {
     width: 100%;
   }
 
   .video {
-    width: 400px;
+    width: 350px;
   }
   .features {
-    width: 400px;
-    
+    width: 350px;
   }
-  .btn-action-column:last-child{
+  .btn-action-column:last-child {
     width: 100%;
   }
-  
-  .plan-list li{
-    
+
+  .plan-list li {
     margin-left: -40px;
-    
   }
   #solutions {
     padding: 4rem 1rem 10rem 1rem;
-    
   }
   .features li p {
     width: 350px;
@@ -761,14 +744,14 @@ p {
   .free-right img {
     width: 300px;
   }
-  .testimonial-review{
+  .testimonial-review {
     width: 100%;
   }
   .customer-review {
     max-width: 100%;
     flex-direction: column;
   }
-  .btn-market{
+  .btn-market {
     width: 100%;
   }
 }
